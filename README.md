@@ -1,2 +1,2 @@
 # npm-i-chatbot
-A defi chatbot navigating the defiChain environment.
+A defi and AI  chatbot navigating the defiChain environment.
